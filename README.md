@@ -1,5 +1,7 @@
 # NGINX with Prometheus metric exporter
 
+**This image is heavily outdated, and I have no plans to support it. Feel free to ask questions thought.**
+
 An extended [OpenResty](https://hub.docker.com/r/openresty/openresty/) image with the Prometheus metric 
 exporter plugin added.
 
